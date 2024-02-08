@@ -15,7 +15,7 @@ This PowerShell script is designed to disable Windows Updates on a Windows syste
 4. Run the script by executing the following command:
 
     ```powershell
-    .\Disable-WindowsUpdates.ps1
+    .\FUCK_UPDATES.ps1
     ```
 
 5. Follow the on-screen prompts to disable Windows Updates.
